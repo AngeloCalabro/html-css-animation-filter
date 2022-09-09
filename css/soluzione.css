@@ -139,7 +139,7 @@
 }
 
 .ex-13-button:hover .ex-13-top-white {
-    animation: moveTopTotal 2s linear infinite;
+    animation: moveTopTotal 0.5s linear infinite;
 }
 
 @keyframes moveTopTotal {
@@ -175,7 +175,7 @@
 }
 
 .ex-13-button:hover .ex-13-bottom-white {
-    animation: moveBottomTotal 2s linear infinite;
+    animation: moveBottomTotal 0.5s linear infinite;
 }
 
 @keyframes moveBottomTotal {
